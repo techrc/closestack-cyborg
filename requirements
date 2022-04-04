@@ -1,0 +1,5 @@
+pecan
+wsme
+sqlalchemy
+pymysql
+oslo.config==8.3.3

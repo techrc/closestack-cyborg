@@ -1,0 +1,4 @@
+class ARQ():
+    fields = {
+        'id':
+    }
